@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E13E272F-584B-404A-A5D4-0AB9772C85EA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3300395B-185D-4FF2-AC6F-5987111E3CB6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI1/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60E0F951-5C3E-4518-930C-348C975B1891"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI1/TextFields.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "068A4941-C1BC-4DBF-9DD6-3CC43C783F01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI1/TextFields.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "TextFields"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "068A4941-C1BC-4DBF-9DD6-3CC43C783F01 - d1a4f0b5451ba594"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of SwiftUI1.TextFields.textoVista : Swift.String"
+                  moduleName = "SwiftUI1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dieguin/Developer/SwiftUI/SwiftUI1/SwiftUI1/TextFields.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "068A4941-C1BC-4DBF-9DD6-3CC43C783F01 - 7fe4ffcab1504d42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI1.TextFields.textoVista.getter : Swift.String"
+                  moduleName = "SwiftUI1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dieguin/Developer/SwiftUI/SwiftUI1/SwiftUI1/TextFields.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "068A4941-C1BC-4DBF-9DD6-3CC43C783F01 - ef36816cb295d5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI1.TextFields.textoVista.setter : Swift.String"
+                  moduleName = "SwiftUI1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dieguin/Developer/SwiftUI/SwiftUI1/SwiftUI1/TextFields.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "068A4941-C1BC-4DBF-9DD6-3CC43C783F01 - b7937ec08b70b14f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI1.TextFields.textoVista.modify : Swift.String"
+                  moduleName = "SwiftUI1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dieguin/Developer/SwiftUI/SwiftUI1/SwiftUI1/TextFields.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "068A4941-C1BC-4DBF-9DD6-3CC43C783F01 - f294a783302ad75e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI1.TextFields.textoVista.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SwiftUI1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dieguin/Developer/SwiftUI/SwiftUI1/SwiftUI1/TextFields.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "068A4941-C1BC-4DBF-9DD6-3CC43C783F01 - 4bcd0986c4599906"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI1.TextFields.$textoVista.getter : SwiftUI.Binding&lt;Swift.String&gt;"
+                  moduleName = "SwiftUI1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dieguin/Developer/SwiftUI/SwiftUI1/SwiftUI1/TextFields.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "068A4941-C1BC-4DBF-9DD6-3CC43C783F01 - 54a430ccfa5978d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI1.TextFields.init() -&gt; SwiftUI1.TextFields"
+                  moduleName = "SwiftUI1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dieguin/Developer/SwiftUI/SwiftUI1/SwiftUI1/TextFields.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
